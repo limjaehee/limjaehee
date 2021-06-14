@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jaejee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
+&nbsp
+&nbsp
+&nbsp
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
-
-
-
+&nbsp
+&nbsp
+&nbsp
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -38,10 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></a>&nbsp
 </p>
 
-
-
-
-
+&nbsp
+&nbsp
+&nbsp
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
