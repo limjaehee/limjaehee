@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jaejee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
