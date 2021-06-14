@@ -1,26 +1,12 @@
-<!--
-**limjaehee/limjaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jaejee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
+<a href="https://cafe.naver.com/juseom2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+<a href="https://www.instagram.com/ha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+<a href="mailto:rhak39@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 <br>
-<br>
-<br>
+<p>👋 Hi there! I'm web publisher.</p>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h3🙋‍♀️ Skills</h3>
+<br>
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
@@ -32,26 +18,11 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<br>
-<br>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://cafe.naver.com/juseom2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/ha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:rhak39@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-
-<br>
-<br>
-<br>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<h3>👩‍💻My Github Stats</h3>
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br>
-<br>
 <br>
