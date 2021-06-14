@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<p>👋 Hi there! I'm web publisher.</p>
+<p>👋 Hi there! I'm App & Web publisher.</p>
 
 <br>
 
