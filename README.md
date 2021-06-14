@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
+
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -33,6 +37,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></a>&nbsp
 </p>
+
+
+
+
+
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
