@@ -6,7 +6,7 @@
 <br>
 <p>👋 Hi there! I'm web publisher.</p>
 
-<h3🙋‍♀️ Skills</h3>
+<h3>🙋‍♀️ Skills</h3>
 <br>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
