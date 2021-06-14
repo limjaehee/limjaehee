@@ -3,8 +3,11 @@
 <a href="https://www.instagram.com/ha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 <a href="mailto:rhak39@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </div>
+
 <br>
 <p>👋 Hi there! I'm web publisher.</p>
+
+<br>
 
 <h3>🙋‍♀️ Skills</h3>
 <br>
