@@ -6,7 +6,12 @@
 
   <a href="https://sweeney.tistory.com/"><img src="https://img.shields.io/badge/sweeney-E5511E?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   
-  <a href="https://glistening-sleep-b27.notion.site/5d053f65bbca4ae3b3ec50b78c1faeac?v=3589e1ba968b4636b608a9b1ae16572f"><img src="https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href="https://glistening-sleep-b27.notion.site/c52e467b438647ef997abe714268f70e?v=e97a919258ca4b1fb950e3a0cd51cefb"><img src="https://img.shields.io/badge/Archive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
+  <a href="https://jaeheelim.notion.site/5d053f65bbca4ae3b3ec50b78c1faeac">
+    <img src="https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a> 
+  <a href="https://jaeheelim.notion.site/c52e467b438647ef997abe714268f70e">
+    <img src="https://img.shields.io/badge/Archive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/>
+  </a>
   <br><br>
 </div>
 
