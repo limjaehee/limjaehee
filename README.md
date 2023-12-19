@@ -16,6 +16,7 @@
 <br>
 
 [Google](https://google.com){target="_blank"}
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
