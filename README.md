@@ -15,6 +15,8 @@
 
 <br>
 
+[Google](https://google.com){target="_blank"}
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <a href="https://jaeheelim.notion.site/5d053f65bbca4ae3b3ec50b78c1faeac" target="_blank">
