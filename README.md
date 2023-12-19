@@ -17,10 +17,10 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <a href="https://jaeheelim.notion.site/5d053f65bbca4ae3b3ec50b78c1faeac">
+  <a href="https://jaeheelim.notion.site/5d053f65bbca4ae3b3ec50b78c1faeac" target="_blank">
     <img src="https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>&nbsp
-  <a href="https://jaeheelim.notion.site/c52e467b438647ef997abe714268f70e">
+  <a href="https://jaeheelim.notion.site/c52e467b438647ef997abe714268f70e" target="_blank">
     <img src="https://img.shields.io/badge/Archive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
 </div>
